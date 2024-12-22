@@ -1,5 +1,5 @@
 - Greetings, I’m Tathagata Banerjee.
-- I’m interested in Statistical Machine Learning, Computational Statistics and Mechanism Design.
+- My areas of interest are Statistical Machine Learning, Computational Statistics and Mechanism Design.
 - I’m currently pursuing M.Sc Statistics from IIT Kanpur and looking for PhD opportunities in the aforementioned fields.
 - I’m looking to collaborate on academic projects in statistics and social choice theory.
 - Reach me at: tathagatajoy5959@gmail.com/tathagatab23@iitk.ac.in(email)
